@@ -1,0 +1,32 @@
+html {background-color:LightGray;}
+        h1 {font-family: 'Fondamento', cursive;text-align: center;}
+        h5 {font-family: 'Open Sans', sans-serif;text-align: justify;}
+        p {font-family: 'Open Sans', sans-serif;text-align: center;}
+
+div {padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 10px;}
+
+.a {text-align: left;}
+
+.img1 {float: left;
+margin-left: 0px;
+margin-right: 15px;
+margin-top: 0px;
+margin-bottom: 15px;}  
+
+.clearfix {overflow: auto;}
+
+.img2 {float: left;
+margin-left: 0px;
+margin-right: 15px;
+margin-top: 0px;
+margin-bottom: 15px;} 
+        
+.img3 {float: left;
+margin-left: 0px;
+margin-right: 15px;
+margin-top: 0px;
+margin-bottom: 15px;} 
